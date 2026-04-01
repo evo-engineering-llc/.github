@@ -9,7 +9,6 @@ Evo Engineering focuses on practical system design using:
 - reduction of iterative compute waste  
 
 ---
-
 ## Core Systems
 
 ### HLX Photo
@@ -23,6 +22,7 @@ Exact field-based rendering replacing iterative raster computation (~35x–70x f
 ### Phoenix System
 Industrial system for converting wind turbine blade waste into usable material outputs.  
 🔗 https://github.com/evo-engineering-llc/phoenix-system
+
 ---
 
 ## System Direction
