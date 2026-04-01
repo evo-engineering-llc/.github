@@ -13,14 +13,16 @@ Evo Engineering focuses on practical system design using:
 ## Core Systems
 
 ### HLX Photo
-Deterministic image reconstruction without training or generative models.
+Deterministic image reconstruction without training or generative models.  
+🔗 https://github.com/evo-engineering-llc/hlx-photo
 
 ### Apex Twist
-Exact field-based rendering replacing iterative raster computation (~35x–70x faster, identical output).
+Exact field-based rendering replacing iterative raster computation (~35x–70x faster, identical output).  
+🔗 https://github.com/evo-engineering-llc/apex-twist
 
 ### Phoenix System
-Industrial system for converting wind turbine blade waste into usable material outputs.
-
+Industrial system for converting wind turbine blade waste into usable material outputs.  
+🔗 https://github.com/evo-engineering-llc/phoenix-system
 ---
 
 ## System Direction
