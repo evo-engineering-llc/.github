@@ -1,39 +1,66 @@
 # Evo Engineering
 
-Applied systems engineering across infrastructure, computation, and industrial processes.
+Deterministic systems that reduce compute, data transfer, and operational overhead by exploiting structure instead of brute force.
 
-Evo Engineering focuses on practical system design using:
+Evo Engineering builds practical systems that:
 
-- constraint-based convergence  
-- field-state modeling  
-- reduction of iterative compute waste  
+- eliminate unnecessary iteration  
+- operate directly on structure instead of approximation  
+- produce exact, verifiable outputs  
 
 ---
+
+## Core Idea
+
+These are not separate tools.
+
+They are applications of the same engineering principle:
+
+→ Use structure instead of repetition.
+
+If the structure of a system is known, you don’t need to:
+
+- recompute full state  
+- transmit entire datasets  
+- rely on probabilistic or trained models  
+
+---
+
 ## Core Systems
 
 ### HLX Photo
-Deterministic image reconstruction without training or generative models.  
+Recover heavily corrupted images without training or generative models.  
+Deterministic reconstruction using constraint-based convergence.
+
 🔗 https://github.com/evo-engineering-llc/hlx-photo
 
+---
+
 ### Apex Twist
-Exact field-based rendering replacing iterative raster computation (~35x–70x faster, identical output).  
+Render identical outputs 35×–70× faster by eliminating iterative raster computation.  
+Direct field evaluation replaces brute-force rendering loops.
+
 🔗 https://github.com/evo-engineering-llc/apex-twist
 
+---
+
 ### Phoenix System
-Industrial system for converting wind turbine blade waste into usable material outputs.  
+Convert wind turbine blade waste into usable material streams at industrial scale.  
+Structured process design for dual-output recovery (materials + tipping revenue).
+
 🔗 https://github.com/evo-engineering-llc/phoenix-system
 
 ---
 
-## System Direction
+## What This Means
 
-These are not separate ideas.
+These systems reduce:
 
-They are different applications of the same engineering logic:
+- compute cost  
+- data transfer  
+- operational complexity  
 
-- preserve structure instead of approximating it  
-- remove unnecessary iteration  
-- treat systems as continuous fields instead of discrete steps  
+…without sacrificing accuracy.
 
 ---
 
