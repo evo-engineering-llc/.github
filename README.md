@@ -1,7 +1,6 @@
 # Evo Engineering
 
-Deterministic systems that reduce compute, data transfer, and operational overhead by exploiting structure instead of brute force.
-
+Deterministic systems that reduce compute, data transfer, and operational overhead by reducing compute and operational overhead through efficient system design
 Evo Engineering builds practical systems that:
 
 - eliminate unnecessary iteration  
