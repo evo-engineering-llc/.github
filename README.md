@@ -1,69 +1,67 @@
 # Evo Engineering
 
-Deterministic systems that reduce compute, data transfer, and operational overhead by reducing compute and operational overhead through efficient system design
-Evo Engineering builds practical systems that:
+Evo Engineering builds high-performance computational systems focused on efficiency, reliability, and practical optimization.
 
-- eliminate unnecessary iteration  
-- operate directly on structure instead of approximation  
-- produce exact, verifiable outputs  
+Our work explores ways to reduce unnecessary computation, improve scalability, and deliver consistent results across real-world environments.
 
 ---
 
-## Core Idea
-
-These are not separate tools.
-
-They are applications of the same engineering principle:
-
-→ Use structure instead of repetition.
-
-If the structure of a system is known, you don’t need to:
-
-- recompute full state  
-- transmit entire datasets  
-- rely on probabilistic or trained models  
-
----
-
-## Core Systems
+## Projects
 
 ### HLX Photo
-Recover heavily corrupted images without training or generative models.  
-Deterministic reconstruction using constraint-based convergence.
+Structure-aware image restoration and integrity validation.
 
-🔗 https://github.com/evo-engineering-llc/hlx-photo
+- Recovers degraded image structure without training or generative models
+- Flags ambiguous or unrecoverable structural modifications
+- Designed for reliability in real-world conditions
 
----
-
-### Apex Twist
-Render identical outputs 35×–70× faster by eliminating iterative raster computation.  
-Direct field evaluation replaces brute-force rendering loops.
-
-🔗 https://github.com/evo-engineering-llc/apex-twist
+👉 https://github.com/evo-engineering-llc/hlx-photo
 
 ---
 
-### Phoenix System
-Convert wind turbine blade waste into usable material streams at industrial scale.  
-Structured process design for dual-output recovery (materials + tipping revenue).
+### HLX Delta
+Efficient change-tracking system for structured data.
 
-🔗 https://github.com/evo-engineering-llc/phoenix-system
+- Reduces data transfer and compute requirements
+- Maintains exact reconstruction fidelity
+- Designed for streaming and distributed systems
 
----
-
-## What This Means
-
-These systems reduce:
-
-- compute cost  
-- data transfer  
-- operational complexity  
-
-…without sacrificing accuracy.
+👉 https://github.com/evo-engineering-llc/hlx-delta
 
 ---
 
-## Links
+### HLX Grid Demo
+Grid restoration simulation under constrained conditions.
 
-Website: https://www.evo.engineering/  
-Contact: contact@evo.engineering
+- Demonstrates recovery behavior under operational limits
+- Focused on practical system behavior and resilience
+
+👉 https://github.com/evo-engineering-llc/hlx-grid-demo
+
+---
+
+### HLX Adam
+Adaptive optimization pipeline for complex systems.
+
+- Improves convergence in challenging environments
+- Designed for flexibility across domains
+
+👉 https://github.com/evo-engineering-llc/hlx-adam
+
+---
+
+## Approach
+
+Evo Engineering focuses on building systems that:
+
+- reduce unnecessary computation
+- scale predictably under load
+- produce consistent, verifiable results
+
+---
+
+## Notes
+
+These repositories represent practical implementations and demonstrations.
+
+Details of underlying methods and ongoing research are not fully represented here.
